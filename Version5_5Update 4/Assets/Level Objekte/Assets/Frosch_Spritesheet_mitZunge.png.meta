@@ -1,0 +1,621 @@
+fileFormatVersion: 2
+guid: 2e4ca19260e1ab747b5e93876e4b2b9d
+timeCreated: 1461516667
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Frosch_Spritesheet_mitZunge_0
+    21300002: Frosch_Spritesheet_mitZunge_1
+    21300004: Frosch_Spritesheet_mitZunge_2
+    21300006: Frosch_Spritesheet_mitZunge_3
+    21300008: Frosch_Spritesheet_mitZunge_4
+    21300010: Frosch_Spritesheet_mitZunge_5
+    21300012: Frosch_Spritesheet_mitZunge_6
+    21300014: Frosch_Spritesheet_mitZunge_7
+    21300016: Frosch_Spritesheet_mitZunge_8
+    21300018: Frosch_Spritesheet_mitZunge_9
+    21300020: Frosch_Spritesheet_mitZunge_10
+    21300022: Frosch_Spritesheet_mitZunge_11
+    21300024: Frosch_Spritesheet_mitZunge_12
+    21300026: Frosch_Spritesheet_mitZunge_13
+    21300028: Frosch_Spritesheet_mitZunge_14
+    21300030: Frosch_Spritesheet_mitZunge_17
+    21300032: Frosch_Spritesheet_mitZunge_18
+    21300034: Frosch_Spritesheet_mitZunge_15
+    21300036: Frosch_Spritesheet_mitZunge_19
+    21300038: Frosch_Spritesheet_mitZunge_16
+    21300040: Frosch_Spritesheet_mitZunge_20
+    21300042: Frosch_Spritesheet_mitZunge_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Frosch_Spritesheet_mitZunge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7526
+        width: 2000
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: 74.0553}
+        - {x: -121.5, y: 29.055298}
+        - {x: -120.5, y: 26.055298}
+        - {x: -112.5, y: 23.055298}
+        - {x: -90.5, y: -73.9447}
+        - {x: 3.5, y: -73.9447}
+        - {x: 108.5, y: -26.944702}
+        - {x: 108.5, y: 74.0553}
+      - - {x: -3.5, y: -60.944702}
+        - {x: -0.5, y: -59.944702}
+        - {x: -0.5, y: -56.944702}
+        - {x: -3.5, y: -55.944702}
+        - {x: -5.5, y: -57.944702}
+      - - {x: 116.5, y: 24.055298}
+        - {x: 117.5, y: 21.055298}
+        - {x: 120.5, y: 21.055298}
+        - {x: 122.5, y: 23.055298}
+        - {x: 121.5, y: 26.055298}
+        - {x: 118.5, y: 26.055298}
+      - - {x: 107.5, y: 23.055298}
+        - {x: 112.5, y: 25.055298}
+        - {x: 112.5, y: 28.055298}
+        - {x: 109.5, y: 29.055298}
+        - {x: 105.5, y: 26.055298}
+      - - {x: 123.5, y: 26.055298}
+        - {x: 124.5, y: 23.055298}
+        - {x: 127.5, y: 23.055298}
+        - {x: 129.5, y: 25.055298}
+        - {x: 128.5, y: 28.055298}
+        - {x: 125.5, y: 28.055298}
+    - name: Frosch_Spritesheet_mitZunge_1
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 7922
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frosch_Spritesheet_mitZunge_2
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 7918
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frosch_Spritesheet_mitZunge_3
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 7918
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frosch_Spritesheet_mitZunge_4
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 7910
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frosch_Spritesheet_mitZunge_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 7514
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frosch_Spritesheet_mitZunge_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6912
+        width: 2000
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: 72.041504}
+        - {x: -18.5, y: 72.041504}
+        - {x: -121.5, y: 52.041504}
+        - {x: -121.5, y: -25.958496}
+        - {x: -113.5, y: -71.958496}
+        - {x: 4.5, y: -71.958496}
+        - {x: 46.5, y: -64.958496}
+        - {x: 117.5, y: -38.958496}
+        - {x: 117.5, y: 28.041504}
+        - {x: 113.5, y: 43.041504}
+      - - {x: -31.5, y: -71.958496}
+        - {x: -31.5, y: -69.958496}
+        - {x: -34.5, y: -68.958496}
+        - {x: -36.5, y: -71.958496}
+      - - {x: 56.5, y: -24.958496}
+        - {x: 55.5, y: -26.958496}
+        - {x: 56.5, y: -29.958496}
+        - {x: 60.5, y: -31.958496}
+        - {x: 63.5, y: -30.958496}
+        - {x: 63.5, y: -27.958496}
+        - {x: 59.5, y: -24.958496}
+      - - {x: 102.5, y: -8.958496}
+        - {x: 105.5, y: -7.958496}
+        - {x: 105.5, y: -4.958496}
+        - {x: 102.5, y: -3.958496}
+        - {x: 100.5, y: -5.958496}
+    - name: Frosch_Spritesheet_mitZunge_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6310
+        width: 2000
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 71.55725}
+        - {x: -118.5, y: 51.55725}
+        - {x: -118.5, y: -71.44275}
+        - {x: 62.5, y: -71.44275}
+        - {x: 132.5, y: -60.44275}
+        - {x: 132.5, y: 37.55725}
+        - {x: 83.5, y: 71.55725}
+      - - {x: -30.5, y: -71.44275}
+        - {x: -30.5, y: -69.44275}
+        - {x: -33.5, y: -68.44275}
+        - {x: -35.5, y: -71.44275}
+      - - {x: 75.5, y: -32.44275}
+        - {x: 78.5, y: -31.442749}
+        - {x: 78.5, y: -28.442749}
+        - {x: 75.5, y: -27.442749}
+        - {x: 73.5, y: -29.442749}
+    - name: Frosch_Spritesheet_mitZunge_8
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 6306
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frosch_Spritesheet_mitZunge_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5751
+        width: 2000
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 68.928955}
+        - {x: -122.5, y: 59.928955}
+        - {x: -122.5, y: -67.071045}
+        - {x: -27.5, y: -67.071045}
+        - {x: 9.5, y: -55.071045}
+        - {x: 132.5, y: -50.071045}
+        - {x: 132.5, y: 47.928955}
+        - {x: 107.5, y: 68.928955}
+      - - {x: 77.5, y: -33.071045}
+        - {x: 80.5, y: -36.071045}
+        - {x: 83.5, y: -35.071045}
+        - {x: 83.5, y: -33.071045}
+        - {x: 80.5, y: -30.071045}
+        - {x: 78.5, y: -30.071045}
+      - - {x: -64.5, y: 58.928955}
+        - {x: -63.5, y: 55.928955}
+        - {x: -60.5, y: 54.928955}
+        - {x: -57.5, y: 54.928955}
+        - {x: -55.5, y: 56.928955}
+        - {x: -56.5, y: 59.928955}
+        - {x: -62.5, y: 60.928955}
+    - name: Frosch_Spritesheet_mitZunge_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5157
+        width: 2000
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 64.46448}
+        - {x: -122.5, y: -0.53552246}
+        - {x: -117.5, y: -57.535522}
+        - {x: -107.5, y: -62.535522}
+        - {x: 110.5, y: -62.535522}
+        - {x: 110.5, y: 43.464478}
+        - {x: 62.5, y: 64.46448}
+      - - {x: -41.5, y: -47.535522}
+        - {x: -38.5, y: -46.535522}
+        - {x: -38.5, y: -43.535522}
+        - {x: -41.5, y: -42.535522}
+        - {x: -43.5, y: -44.535522}
+      - - {x: 47.5, y: -37.535522}
+        - {x: 55.5, y: -45.535522}
+        - {x: 58.5, y: -44.535522}
+        - {x: 58.5, y: -42.535522}
+        - {x: 50.5, y: -34.535522}
+        - {x: 48.5, y: -34.535522}
+      - - {x: -28.5, y: -40.535522}
+        - {x: -25.5, y: -39.535522}
+        - {x: -25.5, y: -36.535522}
+        - {x: -28.5, y: -35.535522}
+        - {x: -30.5, y: -37.535522}
+    - name: Frosch_Spritesheet_mitZunge_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4614
+        width: 2000
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 67.87573}
+        - {x: -118.5, y: 67.87573}
+        - {x: -118.5, y: -66.12427}
+        - {x: 102.5, y: -66.12427}
+        - {x: 102.5, y: 20.875732}
+        - {x: 63.5, y: 56.875732}
+    - name: Frosch_Spritesheet_mitZunge_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 4096
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Frosch_Spritesheet_mitZunge_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4005
+        width: 2000
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 67.62427}
+        - {x: -109.5, y: 67.62427}
+        - {x: -117.5, y: 64.62427}
+        - {x: -120.5, y: 58.624268}
+        - {x: -102.5, y: 49.624268}
+        - {x: -121.5, y: -34.375732}
+        - {x: -121.5, y: -50.375732}
+        - {x: -113.5, y: -54.375732}
+        - {x: -65.5, y: -55.375732}
+        - {x: 37.5, y: -67.37573}
+        - {x: 83.5, y: -67.37573}
+        - {x: 86.5, y: -31.375732}
+        - {x: 86.5, y: 3.6242676}
+        - {x: 49.5, y: 55.624268}
+      - - {x: -53.5, y: -41.375732}
+        - {x: -50.5, y: -40.375732}
+        - {x: -50.5, y: -37.375732}
+        - {x: -53.5, y: -36.375732}
+        - {x: -55.5, y: -38.375732}
+    - name: Frosch_Spritesheet_mitZunge_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2891
+        width: 2000
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114.5, y: 61.877747}
+        - {x: -122.5, y: 47.877747}
+        - {x: -122.5, y: -63.122253}
+        - {x: 88.5, y: -63.122253}
+        - {x: 88.5, y: 42.877747}
+        - {x: 36.5, y: 61.877747}
+      - - {x: 27.5, y: -49.122253}
+        - {x: 30.5, y: -48.122253}
+        - {x: 30.5, y: -45.122253}
+        - {x: 27.5, y: -44.122253}
+        - {x: 25.5, y: -46.122253}
+      - - {x: -47.5, y: -48.122253}
+        - {x: -44.5, y: -47.122253}
+        - {x: -44.5, y: -44.122253}
+        - {x: -47.5, y: -43.122253}
+        - {x: -49.5, y: -45.122253}
+      - - {x: 76.5, y: -40.122253}
+        - {x: 79.5, y: -39.122253}
+        - {x: 79.5, y: -36.122253}
+        - {x: 76.5, y: -35.122253}
+        - {x: 74.5, y: -37.122253}
+    - name: Frosch_Spritesheet_mitZunge_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 2000
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 62.440826}
+        - {x: -122.5, y: -60.559174}
+        - {x: 143.5, y: -60.559174}
+        - {x: 204.5, y: 2.4408264}
+        - {x: 204.5, y: 32.440826}
+        - {x: 87.5, y: 62.440826}
+      - - {x: 27.5, y: -47.559174}
+        - {x: 30.5, y: -46.559174}
+        - {x: 30.5, y: -43.559174}
+        - {x: 27.5, y: -42.559174}
+        - {x: 25.5, y: -44.559174}
+      - - {x: -47.5, y: -46.559174}
+        - {x: -44.5, y: -45.559174}
+        - {x: -44.5, y: -42.559174}
+        - {x: -47.5, y: -41.559174}
+        - {x: -49.5, y: -43.559174}
+      - - {x: -108.5, y: 62.440826}
+        - {x: -107.5, y: 59.440826}
+        - {x: -102.5, y: 59.440826}
+        - {x: -100.5, y: 61.440826}
+        - {x: -100.5, y: 62.440826}
+    - name: Frosch_Spritesheet_mitZunge_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 184.5, y: 34.5}
+        - {x: 9.5, y: 60.5}
+        - {x: -105.5, y: 60.5}
+        - {x: -121.5, y: 49.5}
+        - {x: -122.5, y: 48.5}
+        - {x: -122.5, y: -60.5}
+        - {x: 224.5, y: -60.5}
+        - {x: 231.5, y: -35.5}
+        - {x: 231.5, y: 16.5}
+        - {x: 229.5, y: 20.5}
+      - - {x: -47.5, y: -46.5}
+        - {x: -44.5, y: -45.5}
+        - {x: -44.5, y: -42.5}
+        - {x: -47.5, y: -41.5}
+        - {x: -49.5, y: -43.5}
+      - - {x: 76.5, y: -38.5}
+        - {x: 79.5, y: -37.5}
+        - {x: 79.5, y: -34.5}
+        - {x: 76.5, y: -33.5}
+        - {x: 74.5, y: -35.5}
+    - name: Frosch_Spritesheet_mitZunge_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3438
+        width: 2000
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: 67.47632}
+        - {x: -121.5, y: 65.47632}
+        - {x: -121.5, y: -6.5236816}
+        - {x: -113.5, y: -63.52368}
+        - {x: 100.5, y: -63.52368}
+        - {x: 100.5, y: 13.476318}
+        - {x: 65.5, y: 67.47632}
+      - - {x: 36.5, y: -48.52368}
+        - {x: 39.5, y: -46.52368}
+        - {x: 37.5, y: -41.52368}
+        - {x: 34.5, y: -41.52368}
+        - {x: 33.5, y: -44.52368}
+      - - {x: -42.5, y: -47.52368}
+        - {x: -39.5, y: -46.52368}
+        - {x: -39.5, y: -43.52368}
+        - {x: -42.5, y: -42.52368}
+        - {x: -44.5, y: -44.52368}
+      - - {x: 88.5, y: -38.52368}
+        - {x: 91.5, y: -37.52368}
+        - {x: 91.5, y: -34.52368}
+        - {x: 88.5, y: -33.52368}
+        - {x: 86.5, y: -35.52368}
+    - name: Frosch_Spritesheet_mitZunge_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2408
+        width: 2000
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 62.43689}
+        - {x: -122.5, y: -60.56311}
+        - {x: 93.5, y: -60.56311}
+        - {x: 125.5, y: -7.5631104}
+        - {x: 125.5, y: 33.43689}
+        - {x: 24.5, y: 62.43689}
+      - - {x: 25.5, y: -44.56311}
+        - {x: 28.5, y: -47.56311}
+        - {x: 31.5, y: -46.56311}
+        - {x: 31.5, y: -44.56311}
+        - {x: 28.5, y: -41.56311}
+        - {x: 26.5, y: -41.56311}
+      - - {x: -47.5, y: -45.56311}
+        - {x: -44.5, y: -44.56311}
+        - {x: -44.5, y: -41.56311}
+        - {x: -47.5, y: -40.56311}
+        - {x: -49.5, y: -42.56311}
+    - name: Frosch_Spritesheet_mitZunge_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1923
+        width: 2000
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149.5, y: -3.5088806}
+        - {x: 149.5, y: 30.49112}
+        - {x: 24.5, y: 61.49112}
+        - {x: -122.5, y: 61.49112}
+        - {x: -122.5, y: -60.50888}
+        - {x: 92.5, y: -60.50888}
+        - {x: 70.5, y: -25.50888}
+        - {x: 67.5, y: -24.50888}
+        - {x: 134.5, y: -9.508881}
+      - - {x: 27.5, y: -46.50888}
+        - {x: 30.5, y: -45.50888}
+        - {x: 30.5, y: -42.50888}
+        - {x: 27.5, y: -41.50888}
+        - {x: 25.5, y: -43.50888}
+      - - {x: -47.5, y: -45.50888}
+        - {x: -44.5, y: -44.50888}
+        - {x: -44.5, y: -41.50888}
+        - {x: -47.5, y: -40.50888}
+        - {x: -49.5, y: -42.50888}
+    - name: Frosch_Spritesheet_mitZunge_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1446
+        width: 2000
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.5, y: 24.065094}
+        - {x: 73.5, y: 61.065094}
+        - {x: -122.5, y: 61.065094}
+        - {x: -122.5, y: -60.934906}
+        - {x: 86.5, y: -60.934906}
+        - {x: 86.5, y: -57.934906}
+        - {x: 168.5, y: -9.934906}
+      - - {x: -47.5, y: -46.934906}
+        - {x: -44.5, y: -45.934906}
+        - {x: -44.5, y: -42.934906}
+        - {x: -47.5, y: -41.934906}
+        - {x: -49.5, y: -43.934906}
+      - - {x: 76.5, y: -38.934906}
+        - {x: 79.5, y: -37.934906}
+        - {x: 79.5, y: -34.934906}
+        - {x: 76.5, y: -33.934906}
+        - {x: 74.5, y: -35.934906}
+    - name: Frosch_Spritesheet_mitZunge_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 2000
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 181.5, y: 21.376724}
+        - {x: 43.5, y: 55.376724}
+        - {x: -61.5, y: 61.376724}
+        - {x: -91.5, y: 61.376724}
+        - {x: -122.5, y: 49.376724}
+        - {x: -122.5, y: -31.623276}
+        - {x: -121.5, y: -60.623276}
+        - {x: 121.5, y: -60.623276}
+        - {x: 185.5, y: -1.6232758}
+        - {x: 187.5, y: 3.3767242}
+        - {x: 187.5, y: 13.376724}
+      - - {x: 25.5, y: -45.623276}
+        - {x: 28.5, y: -48.623276}
+        - {x: 31.5, y: -47.623276}
+        - {x: 31.5, y: -45.623276}
+        - {x: 28.5, y: -42.623276}
+        - {x: 26.5, y: -42.623276}
+      - - {x: -47.5, y: -46.623276}
+        - {x: -44.5, y: -45.623276}
+        - {x: -44.5, y: -42.623276}
+        - {x: -47.5, y: -41.623276}
+        - {x: -49.5, y: -43.623276}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

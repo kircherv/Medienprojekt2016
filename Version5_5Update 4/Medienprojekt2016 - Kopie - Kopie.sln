@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medienprojekt2016 - Kopie - Kopie.CSharp", "Medienprojekt2016 - Kopie - Kopie.CSharp.csproj", "{6CCE12A1-C95D-F065-69C8-16FA88B61EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medienprojekt2016 - Kopie - Kopie.CSharp.Editor", "Medienprojekt2016 - Kopie - Kopie.CSharp.Editor.csproj", "{1893E655-D1D5-16B8-5ADF-56D3D5EDF402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CCE12A1-C95D-F065-69C8-16FA88B61EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCE12A1-C95D-F065-69C8-16FA88B61EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCE12A1-C95D-F065-69C8-16FA88B61EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCE12A1-C95D-F065-69C8-16FA88B61EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1893E655-D1D5-16B8-5ADF-56D3D5EDF402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1893E655-D1D5-16B8-5ADF-56D3D5EDF402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1893E655-D1D5-16B8-5ADF-56D3D5EDF402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1893E655-D1D5-16B8-5ADF-56D3D5EDF402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
