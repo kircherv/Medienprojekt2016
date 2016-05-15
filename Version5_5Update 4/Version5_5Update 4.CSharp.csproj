@@ -420,6 +420,7 @@
     <Compile Include="Assets\Code\FollowXY.cs" />
     <Compile Include="Assets\Code\Hold.cs" />
     <Compile Include="Assets\Code\ItemPickup.cs" />
+    <Compile Include="Assets\Code\LeftRightMovement.cs" />
     <Compile Include="Assets\Code\MovementAnim.cs" />
     <Compile Include="Assets\Code\OneWayPlatform.cs" />
     <Compile Include="Assets\Code\OriginalMarchingSquares.cs" />
