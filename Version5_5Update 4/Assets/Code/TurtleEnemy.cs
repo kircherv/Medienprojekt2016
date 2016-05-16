@@ -7,6 +7,7 @@ public class TurtleEnemy : MonoBehaviour {
 	public int fieldOfView = 15;
 	public float movingSpeed=1.0f;
 	public float jumpSpeed = 5.0f;
+    public float rageWalkingSpeed = 15.0f;
 
 	public bool playerSeen = false;
 	public bool isRaging = false;
@@ -167,7 +168,7 @@ public class TurtleEnemy : MonoBehaviour {
             StartCoroutine(playerHit());
 
         }
-        transform.Translate(new Vector3(15 * Time.deltaTime, 0, 0));
+        transform.Translate(new Vector3(rageWalkingSpeed * Time.deltaTime, 0, 0));
     }
 	
 

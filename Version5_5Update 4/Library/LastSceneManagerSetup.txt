@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/05_05_2016_works_kinda.unity
+- path: Assets/Scenes/CaroTestScene.unity
   isLoaded: 1
   isActive: 1
