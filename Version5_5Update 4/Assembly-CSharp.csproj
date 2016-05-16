@@ -392,6 +392,7 @@
      <Compile Include="Assets\Code\Controller2D.cs" />
      <Compile Include="Assets\Code\Emitter.cs" />
      <Compile Include="Assets\Code\EnemyDamage.cs" />
+     <Compile Include="Assets\Code\EnemyMovement.cs" />
      <Compile Include="Assets\Code\ExtraLives.cs" />
      <Compile Include="Assets\Code\FollowXY.cs" />
      <Compile Include="Assets\Code\Hold.cs" />
@@ -406,6 +407,7 @@
      <Compile Include="Assets\Code\ScoreManager.cs" />
      <Compile Include="Assets\Code\ScoreManagerPapier.cs" />
      <Compile Include="Assets\Code\SmoothCamera.cs" />
+     <Compile Include="Assets\Code\TurtleBehaviour.cs" />
      <Compile Include="Assets\Code\TurtleEnemy.cs" />
      <Compile Include="Assets\Code\ZungenGrapplingHook.cs" />
      <Compile Include="Assets\Code\grabberscript.cs" />

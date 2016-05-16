@@ -6,7 +6,7 @@ public class CameraFollow : MonoBehaviour {
 
 	public GameObject player;
 
-	Vector3 pos = new Vector3(0,0,-3);
+	Vector3 pos = new Vector3(0,0,-26);
 
 	
 	// Update is called once per frame

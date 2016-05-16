@@ -4,8 +4,7 @@ using System.Collections;
 public class TurtleEnemy : MonoBehaviour {
 
 	public bool facingLeft = false;
-	public int fieldOfView = 15;
-	public float movingSpeed=1.0f;
+	
 	public float jumpSpeed = 5.0f;
     public float rageWalkingSpeed = 15.0f;
 
@@ -16,8 +15,11 @@ public class TurtleEnemy : MonoBehaviour {
     private bool turtleIsDying = false;
 	private Vector2 enemyViewDistance;
 
-	// Use this for initialization
-	void Start () {
+    public int fieldOfView = 15;
+    public float movingSpeed = 1.0f;
+
+    // Use this for initialization
+    void Start () {
         gameObject.GetComponent<Animator>().SetBool("gotHit", false);
     }
 	
@@ -125,7 +127,6 @@ public class TurtleEnemy : MonoBehaviour {
 		}
   
 	}
-
 
 
 
